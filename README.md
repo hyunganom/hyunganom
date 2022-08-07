@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hyunganom</h1>
-<h3 align="center">Hi!</h3>
-![11111](https://user-images.githubusercontent.com/104957944/183291749-9414ddbe-707e-4b54-b607-0d764a2c49da.png)
+![hyun jae](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
