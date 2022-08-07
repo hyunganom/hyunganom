@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<img src="https://capsule-render.vercel.app/api?type=wave&&color=gradient&height=300&section=header&text=HyunJae%20&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=300&section=header&text=HyunJae%20&fontSize=90" />
 <img src="https://github-readme-stats.vercel.app/api?username=hyunganom&count_private=true&theme=vue-dark&show_icons=true&count_private=true" alt="Hello">
 
 <h3 align="center">📚 Tech Stack 📚</h3>
