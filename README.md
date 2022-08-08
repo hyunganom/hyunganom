@@ -5,7 +5,8 @@
 <p align="left">
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=300&section=header&text=HyunJae%20&fontSize=90" />
-![hyunganom's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunganom&&show_icons=true&theme=aura&count_private=true)
+
+![dlguswo0504@naver.com's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlguswo0504@naver.com&&show_icons=true&theme=aura&count_private=true)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
